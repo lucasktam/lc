@@ -1,7 +1,5 @@
 # Python cheat sheet for big tech OAs
 
-Nov 25, 2026 · @Lucas
-
 ## Syntax basics
 
 ```python
